@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>349301306686-uc0gnp621nkrjerm6b5os32nkv3k8b58.apps.googleusercontent.com</string>
+	<string>974705696695-7nq8qqfhkgkt1jcb1p2olhjeb07sfme9.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.349301306686-uc0gnp621nkrjerm6b5os32nkv3k8b58</string>
+	<string>com.googleusercontent.apps.974705696695-7nq8qqfhkgkt1jcb1p2olhjeb07sfme9</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDYylVZXVE436fIeaKqRbDxAN8YGBcY10I</string>
+	<string>AIzaSyBkGXArcr9AFjJF9u8KfDv6LL_tZ_juf10</string>
 	<key>GCM_SENDER_ID</key>
-	<string>349301306686</string>
+	<string>974705696695</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.carp-capture.app1</string>
 	<key>PROJECT_ID</key>
-	<string>trax-n1</string>
+	<string>carp-capture</string>
 	<key>STORAGE_BUCKET</key>
-	<string>trax-n1.appspot.com</string>
+	<string>carp-capture.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true></true>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:349301306686:ios:bab3a6e1389dfbb9</string>
+	<string>1:974705696695:ios:bab3a6e1389dfbb9</string>
 	<key>DATABASE_URL</key>
-	<string>https://trax-n1.firebaseio.com</string>
+	<string>https://carp-capture.firebaseio.com</string>
 </dict>
 </plist>
